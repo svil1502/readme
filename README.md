@@ -1,5 +1,8 @@
 МОЯ ИСТОРИЯ
 ===========
+### Это история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — поставьте Star в верхнем правом углу. Спасибо!
+
+---
 ![svil1502](https://user-images.githubusercontent.com/23365602/46631527-580efe80-cb50-11e8-9166-675058ac96ae.jpg)
 <p>Хочу стать программистом.</p>
 <p>Ну и хоти. Скажут( подумают).  Если бы не одно но...Мне 47. Четвертый год пытаюсь им стать. Даже очно учусь в ВУЗе. Даже без выходных читаю, учусь. И до сих пор не знаю, куда меня это заведет...</p>
@@ -18,9 +21,3 @@
 
 <p>Возраст только в глазах окружающих. Мое личное восприятие нового в моей жизни не изменилось. </p>
 
-
-* Item with round point
-* And one more item with round point
-
-You can connect with us by email: something@smth.com
-Do not forget to visit our website: [click here](http://test.com/)
